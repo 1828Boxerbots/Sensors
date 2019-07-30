@@ -1,0 +1,32 @@
+From Andymark.com/products/lidar-lite3
+
+Product Overview
+
+The LIDAR-Lite 3 Laser Rangefinder by Garmin is an essential, powerful, scalable and economical laser based measurement solution supporting a wide variety of applications (ex. drones, general robotics, industrial sensing and more). Measures distance, velocity and signal strength of cooperative and non cooperative targets at distances from zero to more than 40 meters. Offering the highest performance available in a single beam ranging sensor in its class. The new LIDAR-Lite has all of the same specifications as the legacy sensor: Up to 40-meter range capability with 1cm resolution, small size, low power consumption and light weight. 
+
+Laser Sensor PCB:
+
+NEP (PIN detector): 12nW rms, 1.5pF detector capacitance, 1mm virtual detector size
+Min detectable signal: 1nW - 256 integrated bursts (maximum integration time)
+Transmit power (laser): 1.5Watts peak 14mm @ 3amps drive, 75um single stripe laser junction
+Transmit power (LED): 200mW within +/- 3 degree beam @ 1amp
+
+Features:
+
+Measurement speeds of up to 500 readings per second
+2C communication operates at 100kbits/s or 400kbits/
+Broadly compatible with the most basic of I2C drivers and most micro-controller boards. A status register (0x01) can be queried to indicate sensor status
+
+The previous measurement value can be read anytime during an acquisition until it is overwritten by a new value. No need to wait for the sensor to become available to read data.
+Individual sensors can have a unique I2C address
+The base address of 0x62 can be used as the default in single sensor applications and it will also be available in multi-sensor applications as a broadcast address to initiate a command to all the LIDAR-Lites on the I2C bus
+
+Whats in the Box:
+
+1 - LIDAR-Lite Laser Rangefinder
+1 - Cable (one end with connector, the other end bare wires)
+Specifications
+Interface(s): I2C or PWM
+Power: 4.75-5 VDC; 6 V Max
+Range: 1-40 meters
+Temperature: -20 to 60° C

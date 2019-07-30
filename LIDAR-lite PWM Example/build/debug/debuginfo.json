@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project lidarLITE PWM Example)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "lidarLITE PWM Example",
+    "language": "java"
+  }
+]
