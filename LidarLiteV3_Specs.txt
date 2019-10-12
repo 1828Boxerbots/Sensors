@@ -1,4 +1,4 @@
-From Andymark.com/products/lidar-lite3
+From Andymark.com/products/lidar-lite-3
 
 Product Overview
 
@@ -29,4 +29,4 @@ Specifications
 Interface(s): I2C or PWM
 Power: 4.75-5 VDC; 6 V Max
 Range: 1-40 meters
-Temperature: -20 to 60° C
+Temperature: -20 to 60Â° C
