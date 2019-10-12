@@ -1,0 +1,5 @@
+MaxBotix’s LV-MaxSonar-EZ series are low power, high performance sonar range finders. With 2.5 V to 5.5 V power, the LV-MaxSonar-EZ 
+provide very short to long-range detection and ranging in a very small package. They detect objects from 0 inches to 254 inches 
+(6.45 meters) and provide sonar range information from 6 inches out to 254 inches with 1 inch resolution. Objects from 0 inches to 6 
+inches typically range as 6 inches. The interface output formats included are pulse width output, analog voltage output, and RS232 serial
+ output. Factory calibration and testing is completed with a flat object.

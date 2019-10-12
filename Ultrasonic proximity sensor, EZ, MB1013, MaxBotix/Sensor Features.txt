@@ -1,0 +1,15 @@
+Continuously variable gain for control and side lobe suppression
+Object detection to zero range objects
+2.5 V to 5.5 V supply with 2 mA typical current draw
+Readings can occur up to every 50 mS, (20 Hz rate)
+Free run operation can continually measure and output range information
+Triggered operation provides the range reading as desired
+Interfaces are active simultaneously
+Serial, 0 to VCC, 9600 Baud, 81N
+Analog, (VCC/512) / inch
+Pulse width, (147 µS/inch)
+Learns ringdown pattern when commanded to start ranging
+Designed for protected indoor environments
+Sensor operates at 42 KHz
+High output square wave sensor drive (double VCC)
+Actual operating temperature range from -40°C to +65°C, recommended operating temperature range from 0°C to +60°C

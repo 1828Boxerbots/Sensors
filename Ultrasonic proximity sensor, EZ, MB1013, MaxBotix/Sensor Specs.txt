@@ -1,0 +1,20 @@
+Resolution of 1‑mm
+10Hz reading rate
+Internal temperature compensation
+Cost-effective solution where precision range-findings are needed
+Sensor component allows users to lower the cost of their systems without sacrificing performance
+42kHz Ultrasonic sensor measures distance to objects
+RoHS compliant
+Read from all sensor outputs: Analog Voltage, RS232 or TTL Serial, and Pulse Width
+Virtually no sensor dead zone, objects closer than 30 cm will typically range as 30 cm
+Maximum range of 5000 mm (195 inches)
+Tolerates outside noise sources
+Operates from 2.5V-5.5V
+Low 3.1mA average current requirement
+Small, light weight module
+Designed for easy integration into your project or product
+Operational Temperature from -0C to +65C (+32F to +149F)
+Real-time automatic calibration (voltage, humidity, ambient noise)
+Option external temperature compensation HR‑MaxTemp
+Firmware filtering for better noise tolerance and clutter rejection
+Great starting point for users unsure of which sensor to use

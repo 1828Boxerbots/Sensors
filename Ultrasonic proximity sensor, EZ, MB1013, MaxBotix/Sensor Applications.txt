@@ -1,0 +1,10 @@
+UAV blimps, micro planes, and some helicopters
+Bin level measurement
+Proximity zone detection
+People detection
+Robot ranging sensor
+Autonomous navigation
+Multi-sensor arrays
+Distance measuring
+Long range object detection
+Wide beam sensitivity
