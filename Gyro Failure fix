@@ -1,0 +1,29 @@
+Found at https://d0048.github.io/blog/2019/01/13/Workaround-for-FRC-ADXRS450-Gyro-failure-Returning-All-Zeros/
+accessed 10-19-2019
+
+Workaround for FRC ADXRS450 Gyro failure: Returning All Zeros
+Apparently the current version of WPILib(1st 2019 official release) isn’t happy with our ADXRS450 Gyros, and the getAngle() call always return zero.
+
+Sadly the workaround, although present, doesn’t seems to be indexed by google yet…which is why I am making this post so more people could see it before deciding to spend their precious budget buying a new one, like us.
+
+The workaround is found here, which I will present a copy here:
+
+Auto SPI Does not work in v12 image (affects Analog Devices IMUs and Gyro))
+The Auto SPI functionality used by Analog Devices IMUs (ADIS16448 and ADIS16470) and Gyro (ADXRS450) does not work correctly in the 2019-v12 image that is part of the kickoff release.
+
+Workaround: After imaging, log into the robot console as admin (via serial or SSH) and run the command “updateNIDrivers”, then reboot. A simplified tool to execute this is in progress and more information about a full update with this issue resolved will be coming soon.
+
+Solution: We will be issuing an updated FRC Update Suite with a new image that resolves this issue.
+
+Anyway… If u are still unsure what to do:
+
+Connect to Roborio-connected router
+Open a terminal in an *nix/Macos/FreeBSD system, or use an emulator like Putty on Windows.
+SSH to the Roborio using username admin and an empty password. By default configuration, the command is : ssh admin@10.71.46.2
+Run updateNIDrivers, and reboot.
+Since the workaround require rebuilding the kernel, which is quite resource hungry, you may want to kill the running robot code by mv /home/lvuser/robot_java.jar /home/lvuser/robot_java.jar.disable;killall /usr/local/frc/JRE/bin/java;updateNIDrivers.
+Later mv /home/lvuser/robot_java.jar.disable /home/lvuser/robot_java.jar and reboot.
+
+ 
+  
+  
