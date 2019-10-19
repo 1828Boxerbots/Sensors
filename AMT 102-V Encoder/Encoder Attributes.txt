@@ -1,0 +1,18 @@
+Categories		Sensors, Transducers	
+Encoders	
+Manufacturer		CUI Devices	
+Series	AMT10	
+Part Status		Active	
+Encoder Type		Incremental	
+Output Type		Quadrature with Index (Incremental)	
+Pulses per Revolution	Programmable	
+Voltage - Supply	3.6V ~ 5.5V	
+Actuator Type		2mm ~ 8mm Open Center	
+Detent			No	
+Built in Switch		No	
+Mounting Type		Chassis Mount, Motors	
+Orientation		Vertical	
+Termination Style	Terminal Pins
+
+Website: https://www.digikey.com/product-detail/en/cui-inc/AMT102-V/102-1307-ND/827015?utm_adgroup=Sensors%20&%20Transducers
+Accessed: 10/19/19

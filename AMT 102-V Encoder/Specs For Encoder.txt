@@ -1,0 +1,12 @@
+Actuator Type:2mm ~ 8mm Open Center
+Built in Switch:No
+Detent:No
+Encoder Type:Incremental
+Mounting Type:Chassis Mount, Motors
+Output Type:Quadrature with Index (Incremental)
+Pulses per Revolution:Programmable
+Termination Style:Terminal Pins
+Voltage - Supply:3.6V ~ 5.5V
+
+Website: https://www.digikey.com/catalog/en/partgroup/amt10-series-kits/11877?mpart=AMT102-V&vendor=2223
+Accessed: 10/19/19

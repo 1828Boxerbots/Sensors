@@ -1,0 +1,13 @@
+Patented capacitive technology
+16 dip switch programmable resolutions
+Straight (radial) and right-angle (axial) versions
+9 different mounting hole options for AMT102
+6 different mounting hole options for AMT103
+Low power consumption
+-40°C to 100°C operating temperature
+TTL voltage output
+Modular package
+
+Website: https://www.digikey.com/catalog/en/partgroup/amt10-series-kits/11877?mpart=AMT102-V&vendor=2223
+Accessed: 10/19/19
+
