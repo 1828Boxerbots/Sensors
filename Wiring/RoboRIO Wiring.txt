@@ -1,0 +1,12 @@
+A Navx is connected to the MXP port. On the Navx I2C port, 
+we have connected Lidar wires.
+
+Wires from Lidar
+
+Red Pin1 to Navx I2C + pin
+Pin 6 GND to Navx I2C GND Pin
+Pin 4 SCL to Navx I2C SCL Pin
+Pin 5 SDA to Navx I2C SDA Pin
+
+From: https://www.chiefdelphi.com/t/lidar-wiring/162531/3
+Accessed: 10/19/19
