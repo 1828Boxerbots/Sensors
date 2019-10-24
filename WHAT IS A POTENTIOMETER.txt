@@ -1,0 +1,4 @@
+A potentiometer is a electronic device that you would hook up a servo or motor, or anything that will make the shaft it has move.
+The potentiometer measuers how much something has turned. Unlike an encoder which measures the amount of rotations the motor has done
+a potentiometer measures the ANGLE of which it has turned. 90 degrees, 20 degrees, 180 degrees, etc. This is a very broughd statment of
+what a potentiometer is and you can find more info by looking it up online or looking through the files on this Github branch.

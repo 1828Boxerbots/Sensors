@@ -1,0 +1,13 @@
+Element: Wirewound
+Mounting Style: Panel
+Power Rating: 2 W
+Resistance: 5 kOhms
+Shaft Diameter: 1/4 in.
+Shaft Length: 20.62 mm
+Shaft Profile: Slotted
+Termination Style: Turret
+Tolerance: 5 %
+Turns: 10
+
+Website: https://www.andymark.com/products/precision-potentiometer-10turn-5kohms
+Accessed: 10/23/19
