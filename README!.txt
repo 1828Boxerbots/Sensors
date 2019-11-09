@@ -1,0 +1,1 @@
+A gyroscope sensor can detect how much a robot has turned and how fast it is turning.
