@@ -1,0 +1,5 @@
+The encoders that we are using in the 2020 season are E4T Encoders from AndyMark.
+
+https://www.andymark.com/products/e4t-oem-miniature-optical-encoder-kit
+
+This encoder has an output of 360 CPR: This means clicks per revolution.
