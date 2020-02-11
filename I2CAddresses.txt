@@ -2,3 +2,5 @@ Lidar Lite v3 Address:   0x62
 
 Rev Color Sensor v3:     0x52
 Rev Distance Sensor:     0x52
+
+Arduino (changeable):    0x09
