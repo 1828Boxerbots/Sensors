@@ -4,3 +4,5 @@ Rev Color Sensor v3:     0x52
 Rev Distance Sensor:     0x52
 
 Arduino (changeable):    0x09
+
+I2C Multiplexer:         0x70 //This can be addressed between 0x70 and 0x77
