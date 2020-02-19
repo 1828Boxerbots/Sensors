@@ -1,0 +1,14 @@
+This is a team who has working Multiplexer code in C++
+
+https://bitbucket.org/sciborgs4061/i2cmultiplexer/src/master/
+
+For the product itself, go to
+
+https://www.adafruit.com/product/2717
+
+For the standard arduino guide, go to
+
+https://learn.adafruit.com/adafruit-tca9548a-1-to-8-i2c-multiplexer-breakout/overview
+
+
+2/19/2020

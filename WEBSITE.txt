@@ -1,3 +1,0 @@
-This is a team who has working Multiplexer code in C++
-
-https://bitbucket.org/sciborgs4061/i2cmultiplexer/src/master/
