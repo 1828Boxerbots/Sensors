@@ -44,7 +44,7 @@ namespace Psb
         }
 
         void PSBDistanceSensor::SetActive() 
-	{
+		{
             m_breakout.SetChannel(1 << m_breakoutChannel);
         }
 
